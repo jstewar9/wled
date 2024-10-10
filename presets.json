@@ -12,7 +12,7 @@
     //Royal Blue: 29,66,138
     //Yellow: 253,185,39
   //Halloween
-    //Orange: 255,165,0
+    //Orange: 252,76,2
     //Black: 0,0,0
     //Yellow-Gold: 255, 215, 0 
     //Purple: 128, 0, 128
@@ -29,7 +29,8 @@
   ,"2":{"bri":60,"seg":{"col":[[12,35,64],[232,119,34]],"fx":16,"sx":211,"ix":10,"pal":0},"n":"Auburn 2"}
   ,"3":{"bri":60,"seg":{"col":[[0,8,255],[255,255,0],[0,0,0]],"fx":37,"sx":188,"ix":255,"pal":0},"n":"49ers 1"}
   ,"4":{"bri":60,"seg":{"col":[[0,8,255],[255,255,0],[0,0,0]],"fx":16,"sx":211,"ix":10,"pal":0},"n":"49ers 2"}
-  ,"5":{"on":true,"bri":127,"transition":7,"mainseg":0,"seg":[{"id":0,"start":0,"stop":401,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"","col":[[255,165,0,0],[0,0,0,0],[0,0,0,0]],"fx":7,"sx":128,"ix":128,"pal":3,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0}],"n":"Halloween 1"}
+  ,"5":{"on":true,"bri":127,"transition":7,"mainseg":0,"seg":[{"id":0,"start":0,"stop":401,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":255,"cct":127,"set":0,"n":"","col":[[252,76,2,0],[0,0,0,0],[0,0,0,0]],"fx":7,"sx":128,"ix":128,"pal":3,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0}],"n":"Halloween 1"}
+  ,"6":{"bri":99,"seg":{"col":[[252,76,2],[0,0,0],[0,0,0]],"fx":73,"sx":18,"ix":117,"pal":31},"n":"Halloween 2"}
 }
 
 {
