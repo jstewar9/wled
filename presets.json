@@ -21,7 +21,10 @@
     //Orange: 220, 107, 25
     //Yellow: 247, 197, 102
     //Cream: 255, 248, 220 
-
+  //July 4th
+    //Red: 196, 31, 64
+    //White: 255, 255, 255
+    //Blue: 30, 45, 96
 {
 "0":{}
 ,"1":{"bri":127,"seg":{"col":[[11,35,65],[232,97,0],[0,0,0]],"fx":37,"sx":127,"ix":127,"pal":0},"n":"Auburn 1"} 
@@ -36,3 +39,4 @@
 ,"9":{"on":true,"bri":255,"transition":7,"mainseg":0,"seg":[{"id":0,"start":0,"stop":401,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":127,"cct":127,"set":0,"n":"","col":[[170,0,0,0],[0,255,13,0],[255,255,255,0]],"fx":51,"sx":128,"ix":128,"pal":5,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0}],"n":"Christmas 3"}
 ,"10":{"on":true,"bri":255,"transition":7,"mainseg":0,"seg":[{"id":0,"start":0,"stop":401,"grp":1,"spc":0,"of":0,"on":true,"frz":false,"bri":127,"cct":127,"set":0,"n":"","col":[[170,0,0,0],[0,255,13,0],[255,255,255,0]],"fx":113,"sx":128,"ix":128,"pal":5,"c1":128,"c2":128,"c3":16,"sel":true,"rev":false,"mi":false,"o1":false,"o2":false,"o3":false,"si":0,"m12":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0},{"stop":0}],"n":"Christmas 4"}
 }
+
